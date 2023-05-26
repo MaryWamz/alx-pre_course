@@ -1,1 +1,2 @@
-My first readme
+Mary's Learning curve
+
